@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'SVN-Aleo';
+    src: url('/template/assets/font/SVN-Aleo/SVN-AleoBoldItalic.woff2') format('woff2'), url('/template/assets/font/SVN-Aleo/SVN-AleoBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Aleo';
+    src: url('/template/assets/font/SVN-Aleo/SVN-AleoBold.woff2') format('woff2'), url('/template/assets/font/SVN-Aleo/SVN-AleoBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Aleo';
+    src: url('/template/assets/font/SVN-Aleo/SVN-AleoItalic.woff2') format('woff2'), url('/template/assets/font/SVN-Aleo/SVN-AleoItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Aleo';
+    src: url('/template/assets/font/SVN-Aleo/SVN-AleoLight.woff2') format('woff2'), url('/template/assets/font/SVN-Aleo/SVN-AleoLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Aleo';
+    src: url('/template/assets/font/SVN-Aleo/SVN-AleoLightItalic.woff2') format('woff2'), url('/template/assets/font/SVN-Aleo/SVN-AleoLightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'SVN-Aleo';
+    src: url('/template/assets/font/SVN-Aleo/SVN-AleoRegular.woff2') format('woff2'), url('/template/assets/font/SVN-Aleo/SVN-AleoRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}

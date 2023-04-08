@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'themify';
+    src: url('/template/assets/font/Themify/themify.woff2') format('woff2'), url('/template/assets/font/Themify/themify.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
